@@ -1,0 +1,80 @@
+body { background-color: #6666998c;}
+
+div.row {
+  position: absolute;
+  top: 33%;
+  left: 48%;
+  transform: translateX(-50%) translateY(-50%);
+  width: 90%;
+  display: table;
+}
+
+div.row2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  width: 90%;
+  display: table;
+}
+
+div.row3 {
+  position: absolute;
+  top: 65%;
+  left: 53%;
+  transform: translateX(-50%) translateY(-50%);
+  width: 90%;
+  display: table;
+}
+
+div.wallstreet {
+  display: table-cell;
+}
+
+div.canvas {
+  display: table-cell;
+}
+
+div.nyt {
+  display: table-cell;
+}
+
+div.reddit {
+  display: table-cell;
+}
+
+div.youtube {
+  display: table-cell;
+}
+
+div.despicable {
+  display: table-cell;
+}
+
+div.despicable2 {
+  display: table-cell;
+}
+
+div.piazza {
+  display: table-cell;
+}
+
+div.google {
+  display: table-cell;
+}
+
+div.cgi {
+  display: table-cell;
+}
+
+div.one.iu {
+  display: table-cell;
+}
+
+div.github {
+  display: table-cell;
+}
+
+div.php {
+  display: table-cell;
+}
